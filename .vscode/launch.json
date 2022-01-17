@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OkrTodolistApplication<okr-todolist>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.werbeson.okrtodolist.OkrTodolistApplication",
+            "projectName": "okr-todolist",
+            "args": ""
+        }
+    ]
+}
